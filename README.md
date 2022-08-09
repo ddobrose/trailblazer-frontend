@@ -9,7 +9,7 @@
     A full-stack MERN application built to retrieve and display information on National Parks and hiking trails.
     <br />
     <br />
-    <a href="/">https://funny-cat-673521.netlify.app/</a>
+    <a href="https://funny-cat-673521.netlify.app/">https://funny-cat-673521.netlify.app/</a>
     ·
     <a href="https://github.com/PatriotxZero/trailblazer-frontend/issues">Report Bug (Client Side)</a>
      ·
